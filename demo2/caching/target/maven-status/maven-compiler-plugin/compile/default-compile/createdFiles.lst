@@ -1,0 +1,10 @@
+com/example/caching/dynamo/DynamoCacheResolver.class
+com/example/caching/dto/CacheData.class
+com/example/caching/controller/UserController.class
+com/example/caching/dynamo/DynamoCacheManage.class
+com/example/caching/service/UserService.class
+com/example/caching/dto/User.class
+com/example/caching/CachingApplication.class
+com/example/caching/dynamo/DynamoCache.class
+com/example/caching/config/CacheConfiguration.class
+com/example/caching/config/Configuration.class
